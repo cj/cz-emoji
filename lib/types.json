@@ -27,13 +27,13 @@
     "emoji": "🚑",
     "code": ":ambulance:",
     "description": "Critical hotfix.",
-    "name": "quickfix"
+    "name": "hotfix"
   },
   {
     "emoji": "✨",
     "code": ":sparkles:",
     "description": "Introducing new features.",
-    "name": "feature"
+    "name": "feat"
   },
   {
     "emoji": "📝",
@@ -129,19 +129,19 @@
     "emoji": "⬇️",
     "code": ":arrow_down:",
     "description": "Downgrading dependencies.",
-    "name": "downgrade"
+    "name": "down"
   },
   {
     "emoji": "⬆️",
     "code": ":arrow_up:",
     "description": "Upgrading dependencies.",
-    "name": "upgrade"
+    "name": "up"
   },
   {
     "emoji": "📌",
     "code": ":pushpin:",
     "description": "Pinning dependencies to specific versions.",
-    "name": "pushpin"
+    "name": "pin"
   },
   {
     "emoji": "👷",
@@ -159,7 +159,7 @@
     "emoji": "♻️",
     "code": ":recycle:",
     "description": "Refactoring code.",
-    "name": "refactoring"
+    "name": "refactor"
   },
   {
     "emoji": "🐳",
